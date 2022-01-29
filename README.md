@@ -11,7 +11,7 @@ list can include numbers, strings, or even Boolean
 
 methods related to lists:
 
-       a = [1,2,3]
+       a = [1,2,3] 
        //insert is adding a new element to the list, based on the index; [index, value]
        a = a.insert[0,3]
        //adding a new element to the list, at the end 
