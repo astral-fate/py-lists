@@ -19,3 +19,22 @@ methods related to lists:
        //adding a new element to the end of the list 
        a = a.append[10]
        print(a);
+
+
+
+
+More methods is sprint(), which eats the space between the values 
+  
+
+
+E.g
+
+             Word1 = "thats\'s";
+             Word2 = "Python";
+             print("Word1"sprint()+"Word2");
+
+
+
+Similar to Java script and ${}
+
+           print("that'\s a string {0}, {1}" .format(Word1, Word2);
