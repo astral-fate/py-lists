@@ -38,3 +38,18 @@ E.g
 Similar to Java script and ${}
 
            print("that'\s a string {0}, {1}" .format(Word1, Word2);
+           
+           
+           
+           
+to icheck if list includes some elements, we can use "in"
+
+
+       x = int(inpit());
+       list = [1,2,3,4];
+        if x in list:
+           print("yes, {0} is in list {1}" .format(x, list));
+
+
+
+
