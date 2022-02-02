@@ -52,4 +52,14 @@ to icheck if list includes some elements, we can use "in"
 
 
 
+For looping if certain element on the list is on, we use for in range. E.g.
+
+             
+              for x in range(4)
+              ReadUser = int(input());
+              Passenger +=1;
+ 
+
+
+
 
